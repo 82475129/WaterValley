@@ -1,0 +1,23 @@
+{
+  "title": "水之谷 Aqua Valley",
+  "description": "一款原創水系 2D 橫向卷軸 RPG。玩家在水晶泉、藍泡森林與深海遺跡中冒險，使用水球術與潮汐波擊敗怪物。",
+  "features": [
+    { "icon": "🌊", "name": "水系戰鬥", "description": "使用水球術、潮汐波與深海護盾，打造和一般冒險遊戲不同的戰鬥節奏。" },
+    { "icon": "🧭", "name": "多地圖探索", "description": "包含藍泡森林、珊瑚洞窟、深海遺跡等地圖，可接續擴充傳送門。" },
+    { "icon": "🎒", "name": "背包與任務", "description": "支援背包頁、技能頁、任務頁與暫停頁，可在 Unity UI 中延伸。" }
+  ],
+  "characters": [
+    { "icon": "🧙", "name": "水之法師", "description": "主角，能控制水晶泉的力量，使用水球與潮汐魔法。" },
+    { "icon": "🧚", "name": "泉之精靈", "description": "引導玩家了解水之谷世界觀與任務流程。" }
+  ],
+  "monsters": [
+    { "icon": "🫧", "name": "泡泡史萊姆", "description": "藍泡森林常見怪物，移動速度慢，但數量很多。" },
+    { "icon": "🦀", "name": "珊瑚蟹", "description": "防禦較高的怪物，適合作為中期關卡敵人。" },
+    { "icon": "🐉", "name": "潮汐巨獸", "description": "深海遺跡 Boss，會發射水壓彈。" }
+  ],
+  "skills": [
+    { "icon": "💧", "name": "水球術", "description": "快速發射水球，適合基本攻擊。" },
+    { "icon": "🌊", "name": "潮汐波", "description": "傷害更高、範圍更大，但冷卻較久。" },
+    { "icon": "🛡️", "name": "深海護盾", "description": "未來可加入的防禦技能，降低受到的傷害。" }
+  ]
+}
